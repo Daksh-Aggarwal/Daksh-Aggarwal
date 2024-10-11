@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daksh Aggarwal, a coding enthusiast.</h1>
+<h1 align="center">Hi 👋, I'm Daksh Aggarwal, a programming enthusiast.</h1>
 
 ###
 
