@@ -15,9 +15,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Aggarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh-aggarwal)](https://github.com/anuraghazra/github-readme-stats)
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Aggarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Daksh-Aggarwal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Daksh-Aggarwal&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Daksh-Aggarwal&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 ###
