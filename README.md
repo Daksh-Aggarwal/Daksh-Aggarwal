@@ -15,10 +15,16 @@
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" style="margin: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" style="margin: 20px;" />
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
+  </a>
 </div>
 <p align="center">Python &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; C Programming</p>
+
 
 <br> <!-- Line break for spacing -->
 
@@ -33,20 +39,24 @@
 
 ## 📬 Contact
 
-<div align="center" style="margin-bottom: 30px;"> <!-- Add margin-bottom for spacing -->
+<div align="center">
   <a href="https://www.linkedin.com/in/dakshaggarwal7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Daksh Aggarwal | LinkedIn" width="50px" style="margin: 20px;" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Daksh Aggarwal | LinkedIn" width="50px" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds 4 spaces between logos -->
   <a href="https://discordapp.com/users/itsmedakshgamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Daksh Aggarwal | Discord" width="50px" style="margin: 20px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Daksh Aggarwal | Discord" width="50px" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/daksh.fr" target="_blank">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Daksh Aggarwal | Instagram" width="50px" style="margin: 20px;" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Daksh Aggarwal | Instagram" width="50px" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:dakshaggarwal2006@gmail.com?subject=Hello&body=Hi%20Daksh,%20I%20would%20like%20to%20connect%20with%20you." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Daksh Aggarwal | Gmail" width="50px" style="margin: 20px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Daksh Aggarwal | Gmail" width="50px" />
   </a>
 </div>
+
 
 <br> <!-- Line break for spacing -->
 <br> <!-- Line break for spacing -->
