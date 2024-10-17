@@ -33,6 +33,8 @@
 
 ## 📊 Stats
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal)](https://github.com/Daksh-Aggarwal)
 <div align="center" style="margin-bottom: 30px;"> <!-- Add margin-bottom for spacing -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Aggarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="Languages graph" />
   <img src="https://streak-stats.demolab.com?user=Daksh-Aggarwal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
