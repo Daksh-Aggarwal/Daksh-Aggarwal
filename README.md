@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/dakshaggarwal7/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Daksh Aggarwal | LinkedIn" width="50px"/></a>
   <a href="https://discordapp.com/users/itsmedakshgamer"><img align ="left" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt ="Daksh Aggarwal | Discord" width="50px"/></a>
   <a href="https://instagram.com/daksh.fr"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Daksh Aggarwal | Instagram" width="50px"/></a>
-  <a href="mailto:dakshaggarwal2006@gmail.com?subject=Hello&body=Hi%20Daksh,%20I%20would%20like%20to%20connect%20with%20you."><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Daksh Aggarwal | Gmail" width="50px"/></a>
+  <a href="mailto:dakshaggarwal2006@gmail.com?subject=Hello&body=Hi%20Daksh,%20I%20would%20like%20to%20connect%20with%20you."><img align="left" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Daksh Aggarwal | Gmail" width="50px"/></a>
 </div>
 
 <br> <!-- Line break for spacing -->
