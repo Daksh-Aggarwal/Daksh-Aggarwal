@@ -14,12 +14,19 @@
 
 ## 🛠️ Skills
 
-<div align="center" style="margin-bottom: 20px;"> <!-- Add margin-bottom for spacing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" />
-  <p>Python</p>
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
-  <p>C Programming</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" />
+        <p>Python</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
+        <p>C Programming</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br> <!-- Line break for spacing -->
@@ -29,7 +36,6 @@
 <div align="center" style="margin-bottom: 30px;"> <!-- Add margin-bottom for spacing -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Aggarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="Languages graph" />
   <img src="https://streak-stats.demolab.com?user=Daksh-Aggarwal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Daksh-Aggarwal&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="Trophy graph" />
 </div>
 
 <br> <!-- Line break for spacing -->
