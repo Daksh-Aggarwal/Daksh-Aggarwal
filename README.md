@@ -24,8 +24,10 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&show_icons=true&theme=vision-friendly-dark)](https://github.com/Daksh-Aggarwal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&layout=compact&theme=vision-friendly-dark)](https://github.com/Daksh-Aggarwal)
+<div align="center"> <!-- Add container for alignment -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="195" />
+</div>
 
 <br> <!-- Line break for spacing -->
 
