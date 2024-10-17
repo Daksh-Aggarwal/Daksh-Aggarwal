@@ -24,7 +24,8 @@
 
 ## 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&show_icons=true&theme=vision-friendly-dark)((https://github.com/Daksh-Aggarwal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&layout=compact)](https://github.com/Daksh-Aggarwal)
 
 <br> <!-- Line break for spacing -->
 
