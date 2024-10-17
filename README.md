@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daksh Aggarwal, a programming enthusiast.</h1>
+<h1 align="center">Hi 👋, I’m Daksh Aggarwal, a passionate programming enthusiast eager to explore new technologies and contribute to impactful projects</h1>
 
 ###
 
-<p align="left">I'm a recent 12th-grade graduate from Delhi Public School Nacharam with a passion for Mathematics and coding. I'm exploring Python and C programming while working on various academic projects. I've been involved in community work and have a strong interest in volunteering and leadership roles. My focus is on continuous learning and contributing to impactful projects.</p>
+<p align="left">I’m a freshman studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring C and have a solid foundation in Python and AI fundamentals. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.</p>
 
 ###
 
