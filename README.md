@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left" style="font-family: 'Merriweather', serif;>I’m a freshman studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring C and have a solid foundation in Python and AI fundamentals. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.</p>
+<p align="left" style="font-family: 'Merriweather', serif";>I’m a freshman studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring C and have a solid foundation in Python and AI fundamentals. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.</p>
 
 ###
 
