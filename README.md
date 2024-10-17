@@ -24,8 +24,6 @@
   </a>
 </div>
 
-<br> <!-- Line break for spacing -->
-
 ## 📊 Stats
 
 <div align="center">
@@ -56,7 +54,6 @@
   </a>
 </div>
 
-<br> <!-- Line break for spacing -->
 <br> <!-- Line break for spacing -->
 
 ## 👀 Visitor Count
