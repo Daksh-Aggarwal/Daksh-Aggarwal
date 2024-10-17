@@ -6,10 +6,6 @@
 
 ###
 
-<h1 align="center">----------------------------------------------------------------</h1>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
   <img width="40" />
@@ -18,19 +14,11 @@
 
 ###
 
-<h1 align="center">----------------------------------------------------------------</h1>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daksh-Aggarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Daksh-Aggarwal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Daksh-Aggarwal&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<h1 align="center">----------------------------------------------------------------</h1>
 
 ###
 
@@ -46,10 +34,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="60" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">----------------------------------------------------------------</h1>
 
 ###
 
