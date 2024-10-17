@@ -31,8 +31,10 @@
   </a>
   <a href="mailto:dakshaggarwal2006@gmail.com?subject=Hello&body=Hi%20Daksh,%20I%20would%20like%20to%20connect%20with%20you." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="60" alt="gmail logo"  />
-    </a>href="https://discordapp.com/users/itsmedakshgamer" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="60" alt="discord logo" />
+  </a>
+  <a href="https://discordapp.com/users/itsmedakshgamer" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="60" alt="discord logo" />
+  </a>
   <a href="https://instagram.com/daksh.fr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="60" alt="instagram logo"  />
   </a>
@@ -44,4 +46,3 @@
   <img src="https://profile-counter.glitch.me/Daksh-Aggarwal/count.svg?"  />
 </div>
 
-###
