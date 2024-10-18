@@ -36,9 +36,7 @@
 
 ## 📌 Badges
 
-<div align="center">
-  [![An image of @dakshaggarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshaggarwal)](https://holopin.io/@dakshaggarwal)
-</div>  
+[![An image of @dakshaggarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshaggarwal)](https://holopin.io/@dakshaggarwal)  
 
 ## 📬 Contact
 
