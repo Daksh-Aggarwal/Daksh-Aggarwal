@@ -12,25 +12,32 @@
 
 <br> <!-- Line break for spacing -->
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 <div align="center">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds 8 non-breaking spaces -->
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="Python logo" />
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="C logo" />
+        <br><strong>C</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="195" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true" alt="Daksh-Aggarwal's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-Aggarwal&theme=great-gatsby&hide_border=false" alt="Daksh-Aggarwal's Streak" />
+  <br> <!-- Line break for next row -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact&card_width=690" alt="Daksh-Aggarwal's Top Languages" />
 </div>
+
 
 <br> <!-- Line break for spacing -->
 
