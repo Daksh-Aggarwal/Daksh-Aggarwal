@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=40&duration=6000&pause=2000&color=F2F722&vCenter=true&width=1150&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Daksh+Aggarwal%2C+a+passionate+programming+enthusiast+" alt="Typing SVG" />
@@ -89,6 +91,7 @@
   </a>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 <br> <!-- Line break for spacing -->
 
 ## 👀 Visitor Count
