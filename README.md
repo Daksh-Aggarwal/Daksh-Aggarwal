@@ -91,7 +91,6 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 <br> <!-- Line break for spacing -->
 
 ## 👀 Visitor Count
@@ -99,3 +98,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Daksh-Aggarwal/count.svg?" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
