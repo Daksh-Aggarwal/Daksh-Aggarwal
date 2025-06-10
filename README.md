@@ -42,13 +42,13 @@
   <br>
   
   <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Daksh's GitHub stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true" alt="Most Commit Language"> -->
   </div>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-Aggarwal&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Daksh's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true">
   
