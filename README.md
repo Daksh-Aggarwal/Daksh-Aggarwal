@@ -17,6 +17,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
   <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="80" alt="pandas logo"  />
+  <img width="40" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
@@ -25,11 +28,13 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="80" alt="express logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
+
 </div>
 
 ## 📊 Stats
@@ -47,10 +52,10 @@
     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true" alt="Most Commit Language"> -->
   </div>
 
-  <br>
+  <!-- <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Aggarwal&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-Aggarwal&theme=highcontrast&hide_border=true"> -->
   
 </div>
 
