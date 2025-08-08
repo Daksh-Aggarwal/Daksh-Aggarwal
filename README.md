@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 <p align="left" style="font-family: 'Merriweather', serif;">
-  I’m a sophomore studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring Artifical Intelligence and Machine Learning, particularly NLPs. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.
+  I’m a sophomore studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring Web Development & Artifical Intelligence and Machine Learning. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.
 </p>
 
 ## 🛠️ Technical Skills
@@ -101,10 +101,10 @@
 
 <br> <!-- Line break for spacing -->
 
-## 👀 Visitor Count
+<!-- ## 👀 Visitor Count
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Daksh-Aggarwal/count.svg?" />
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
