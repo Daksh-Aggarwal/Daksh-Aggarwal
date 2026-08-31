@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 <p align="left" style="font-family: 'Merriweather', serif;">
-  I’m a sophomore studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring Web Development & Artifical Intelligence and Machine Learning. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.
+  I’m a third-year undergraduate studying Computer Science and Engineering with a passion for Mathematics and Programming. I’m currently exploring Web Development & Artifical Intelligence and Machine Learning. I’m eager to dive deeper into AI/ML and committed to making a positive impact through my projects and community involvement.
 </p>
 
 <!-- ## 🛠️ Technical Skills
