@@ -20,13 +20,13 @@
     Committed to making a positive impact through my projects and community involvement.
   </p>
 
-  <p>
-    <a href="https://www.dakshagg.tech">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/dakshaggarwal7/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:daggarwal_be24@thapar.edu">Email</a>
-  </p>
+<p>
+  <a href="https://www.dakshagg.tech" target="_blank" rel="noopener noreferrer">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dakshaggarwal7/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:daggarwal_be24@thapar.edu" target="_blank" rel="noopener noreferrer">Email</a>
+</p>
 
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:06B6D4,100:F59E0B&height=2&section=header"
